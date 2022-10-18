@@ -1,4 +1,4 @@
-# Make It Real - My Team Page
+# Make It Real - Single price grid component
 
 This is a solution to the Single price grid component project of the Make It Real course.
 
